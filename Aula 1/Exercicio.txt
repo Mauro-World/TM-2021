@@ -1,5 +1,4 @@
 Exercício Inicial
-Update1
 
 1. Utilize o Github para fazer um fork ao Repositório:
  - https://github.com/Ricardo-Guia/TM-2021
